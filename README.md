@@ -1,6 +1,6 @@
 # Homework_DSP
 
-### Author: Ouwzhong, TOM-tym.
+### Author: [TOM-tym](https://github.com/TOM-tym/), [Ouwzhong](https://github.com/Ouwzhong/).
 
 #### Abstract
 
